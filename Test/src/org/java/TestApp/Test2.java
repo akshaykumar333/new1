@@ -4,7 +4,7 @@ public class Test2 {
 	
 	public class Hello
 	{
-		public static second()
+		public void second()
 		{
 			System.out.println("nested class method");
 		}
